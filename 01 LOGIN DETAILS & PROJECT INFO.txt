@@ -1,8 +1,8 @@
-**Log on to codeastro.com for more projects!**
+
 
 **Database Name: expenseman**
 
-**Developed by Niraj**
+**Developed by Debabrata**
 
 **Tested with PHP v5**
 
